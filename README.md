@@ -1,4 +1,6 @@
-csci498android
-==============
+# CSCI498A Mobile Device Programming w/ Android
+## Fall 2012
+### Keith Risper
 
-Class for Mobile Programming
+This repository contains my Mobile programming project work for CSCI498 at Mines.
+
